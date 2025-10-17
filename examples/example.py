@@ -56,7 +56,7 @@ print(area)
 """
 
 if __name__ == "__main__":
-    print("🚀 TINYLANG COMPILER DEMO")
+    print(" TINYLANG COMPILER DEMO")
     print("Showing what the compiler can do:\n")
     
     run_example(math_example, "Basic Arithmetic Operations")
@@ -65,11 +65,11 @@ if __name__ == "__main__":
     run_example(multi_example, "Multiple Operations (Area Calculation)")
     
     print(f"\n{'='*50}")
-    print("🎉 All examples completed!")
+    print(" All examples completed!")
     print("This demonstrates a working compiler with:")
-    print("✅ Lexical Analysis (Tokenization)")
-    print("✅ Syntactic Parsing (AST Generation)") 
-    print("✅ Expression Evaluation")
-    print("✅ Variable Support")
-    print("✅ Print Statements")
+    print(" Lexical Analysis (Tokenization)")
+    print(" Syntactic Parsing (AST Generation)") 
+    print("Expression Evaluation")
+    print(" Variable Support")
+    print(" Print Statements")
     print(f"{'='*50}") 
