@@ -1,0 +1,2 @@
+# Less Compiler - No external dependencies
+# Just needs Python 3.6+
